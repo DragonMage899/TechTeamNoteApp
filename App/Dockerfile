@@ -10,4 +10,4 @@ RUN apk add mysql mysql-client
 WORKDIR /app
 COPY /src ./
 
-CMD ["python hello.py"]
+CMD ["python", "hello.py"]

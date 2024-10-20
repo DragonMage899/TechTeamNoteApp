@@ -1,6 +1,15 @@
 # TechTeamNoteApp
 Tech Team project
 
+Building
+- docker build . -t hellodocker
+
+Running
+- docker run -it id
+
+Removing
+- docker rmi if
+
 
 # Bug Fixes (thank you smart people)
 pip not installing
